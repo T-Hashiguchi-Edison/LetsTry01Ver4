@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\障害者職業総合センター\LetsTry01Ver4\指導者用ユーティリティ\指導者用ユーティリティ\指導者用ユーティリティ\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="マスタ移行.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ユーザ登録.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ユーザ登録詳細.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ユーザ選択.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="指導者メニュー.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="入力値表示アンケート入力.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="入力値表示顧客伝票修正.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="入力値表示顧客伝票ミスチェック.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="解析結果出力.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="試行条件.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

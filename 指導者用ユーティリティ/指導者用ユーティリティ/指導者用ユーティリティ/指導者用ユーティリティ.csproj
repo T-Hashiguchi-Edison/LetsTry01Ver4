@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<Version>4.1.0.0</Version>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Platforms>AnyCPU;x86</Platforms>
+		<ApplicationIcon>指導者.ico</ApplicationIcon>
+		<PackageIcon>指導者.ico</PackageIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Include="指導者.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="ScottPlot.WPF" Version="5.0.55" />
+		<PackageReference Include="System.Data.OleDb" Version="9.0.3" />
+		<PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="エラー内容表示.cs">
+	    <SubType>Form</SubType>
+	  </Compile>
+	  <Compile Update="解析結果出力.cs" />
+	  <Compile Update="試行結果一覧.cs">
+	    <SubType>Form</SubType>
+	  </Compile>
+	  <Compile Update="試行履歴選択.cs">
+	    <SubType>Form</SubType>
+	  </Compile>
+	  <Compile Update="ユーザ比較.cs">
+	    <SubType>Form</SubType>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="指導者.ico">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<Version>4.1.0.0</Version>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Platforms>AnyCPU;x86</Platforms>
+		<ApplicationIcon>パソコンデータ入力.ico</ApplicationIcon>
+		<PackageIcon>maru.jpg</PackageIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Include="パソコンデータ入力.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="ScottPlot.WPF" Version="5.0.55" />
+		<PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+		<Compile Update="解答入力値表示顧客伝票ミスチェック.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="解答入力値表示顧客伝票修正.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="顧客伝票ミスチェック.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="顧客伝票修正.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="コース選択.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="試行一覧表示.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="最終フィードバック.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="チェックメッセージ.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="ユーザメニュー.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="スタート確認.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="アンケートカード入力.cs">
+			<SubType>Form</SubType>
+		</Compile>
+		<Compile Update="解答入力値表示.cs" />
+		<Compile Update="試行条件目標設定.cs">
+			<SubType>Form</SubType>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+		<EmbeddedResource Update="顧客伝票ミスチェック.resx">
+		  <SubType>Designer</SubType>
+		</EmbeddedResource>
+		<EmbeddedResource Update="顧客伝票修正.resx">
+		  <SubType>Designer</SubType>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="maru.jpg">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
+
+</Project>

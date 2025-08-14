@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\LetsTry01Ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F51A5E0-AC10-4345-A0BF-6EF564D4C1AE}|\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B.csproj|c:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\letstry01ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F51A5E0-AC10-4345-A0BF-6EF564D4C1AE}|\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B.csproj|solutionrelative:\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F51A5E0-AC10-4345-A0BF-6EF564D4C1AE}|\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B.csproj|c:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\letstry01ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\formcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F51A5E0-AC10-4345-A0BF-6EF564D4C1AE}|\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B.csproj|solutionrelative:\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\formcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u30E6\u30FC\u30B6\u9078\u629E.cs",
+              "DocumentMoniker": "C:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\LetsTry01Ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs",
+              "RelativeDocumentMoniker": "\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs",
+              "ToolTip": "C:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\LetsTry01Ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs",
+              "RelativeToolTip": "\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30E6\u30FC\u30B6\u9078\u629E.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:18:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCommon.cs",
+              "DocumentMoniker": "C:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\LetsTry01Ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\FormCommon.cs",
+              "RelativeDocumentMoniker": "\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\FormCommon.cs",
+              "ToolTip": "C:\\\u969C\u5BB3\u8005\u8077\u696D\u7DCF\u5408\u30BB\u30F3\u30BF\u30FC\\LetsTry01Ver4\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\FormCommon.cs",
+              "RelativeToolTip": "\u30D1\u30BD\u30B3\u30F3\u30C7\u30FC\u30BF\u5165\u529B\\FormCommon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:26:48.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
